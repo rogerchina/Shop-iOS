@@ -1073,7 +1073,7 @@
 				TargetAttributes = {
 					EA1AC1C91D301105001BF3B5 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = 97GEKX6SFC;
+						DevelopmentTeam = "iPhone Developer";
 					};
 					EA1AC1E21D301105001BF3B5 = {
 						CreatedOnToolsVersion = 7.2.1;
